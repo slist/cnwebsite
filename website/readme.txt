@@ -3,13 +3,5 @@ To push in production to the Linux server (AWS), use this SSH private key:
 
 This is a fake key for security demo purposes.
 
------BEGIN OPENSSH PRIVATE KEY-----
-b3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAAAMwAAAAtzc2gtZW
-QyNTUxOQAAACCXhZlL8N+36YLwyvB4bG1fzszT2zhp7kZBEp4G9OGQ4wAAAJBIT9iwSE/Y
-sAAAAAtzc2gtZWQyNTUxOQAAACCXhZlL8N+36YLwyvB4bG1fzszT2zhp7kZBEp4G9OGQ4w
-AAAEAjHlt5d8GhpO8qYsSOCqxtplA3y20nlrpaDIzh7H6hcJeFmUvw37fpgvDK8HhsbV/O
-zNPbOGnuRkESngb04ZDjAAAADWZha2VAZmFrZS5jb20=
------END OPENSSH PRIVATE KEY-----
-
 This is a fake key for security demo purposes.
 
